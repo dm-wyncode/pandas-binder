@@ -18,5 +18,7 @@ According to Larry Wall, the original author of the Perl programming language:
 
 #. Impatience: The anger you feel when the computer is being lazy. This makes you write programs that don't just react to your needs, but actually anticipate them. Or at least pretend to.
 
+#. Hubris: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
+
 
 .. _`Three Virtues`: http://threevirtues.com/
